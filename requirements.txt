@@ -1,0 +1,6 @@
+# Verified direct dependencies, 2026-10-30. Python 3.12-3.14.
+# MediaPipe requires the contrib build; install only one cv2 distribution.
+mediapipe==1.2.0
+opencv-contrib-python==5.0.0.93
+numpy==2.5.4
+pynput==1.8.2
